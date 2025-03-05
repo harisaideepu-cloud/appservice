@@ -18,13 +18,6 @@ echo '
   </div>
   <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-  <!-- Second Embedded GIF -->
-  <div class="tenor-gif-embed" data-postid="19217874" data-share-method="host" data-aspect-ratio="0.7125" data-width="100%">
-    <a href="https://tenor.com/view/bala-throws-phone-ballaya-krishna-gif-19217874">Bala Throws GIF</a> from 
-    <a href="https://tenor.com/search/bala-gifs">Bala GIFs</a>
-  </div>
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 </body>
 </html>
 ';
